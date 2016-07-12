@@ -1,0 +1,99 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @sa8
+ Unwatch 1
+  Star 0
+ Fork 0 sa8/homepage
+ Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs  Settings
+Branch: master Find file Copy pathhomepage/style.css
+b416443  on Feb 15
+@sa8 sa8 news section added
+1 contributor
+RawBlameHistory     81 lines (67 sloc)  1.18 KB
+<style>
+ background-color:white;
+ 
+ 			body{
+ 	background-color:white;
+ 				margin-right=150px;
+ 				font-family:"Sans-serif",Helvet;
+ 				font-style:normal;
+     			font-size:14px;
+ 			}
+ header{
+ 		top:40px;
+ 		left:110px;
+ 		background-color:white;
+ 		
+ 				color:#282828 ;
+ 				position: absolute;
+ 				text-align:left;
+     			/*padding-top:50px;
+     			font-style:normal;*/
+     			font-family:"Sans-serif",Arial;
+     			
+     			font-size:45px;
+ 			}
+ 			
+ 	section{
+ 	
+ 		font-size:18px;
+ 		background-color:white;
+ 		text-align:center;
+ 		position: relative;
+ 		
+ 		left: 20px;
+ 		right: 20px;
+ 		
+ 	}	
+ article{
+ 		font-size:18px;
+ 		background-color:white;
+ 		text-align:left;
+ 		position:absolute;
+ 		top:130px;
+ 		left:350px;
+ 		right:150px;
+ 		
+ 	
+ 		
+ 	}
+ 	
+ 	aside{
+ 	float:left;
+ 	font-size:16px;
+ 	vertical-align: top;
+ 	text-align:left;
+ 	width: 150 px;
+ 	position: absolute;
+     left: 90px;
+     top: 130px;
+ 	}
+ 	
+ 	.imageflottante
+ {
+     float: left;
+ }
+ .dessous
+ {
+     clear: both;
+ }
+ 
+ a {
+ 		/*color:#151B54;*/
+ 		color:#282828;
+ 		text-decoration: underline;
+ 		font-style: italic;
+ 	}
+ 	a:hover {
+  	   /*color: #A23BEC;*/
+  	   text-decoration: underline
+ 	}
+ 
+ <style>
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help
