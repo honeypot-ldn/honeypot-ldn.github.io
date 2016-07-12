@@ -10,8 +10,6 @@
      			font-size:14px;
  			}
  header{
- 		top:40px;
- 		left:110px;
  		background-color:white;
  		
  				color:#282828 ;
@@ -31,8 +29,6 @@
  		text-align:center;
  		position: relative;
  		
- 		left: 20px;
- 		right: 20px;
  		
  	}	
  article{
@@ -40,9 +36,7 @@
  		background-color:white;
  		text-align:left;
  		position:absolute;
- 		top:130px;
- 		left:350px;
- 		right:150px;
+ 
  		
  	
  		
@@ -55,8 +49,7 @@
  	text-align:left;
  	width: 150 px;
  	position: absolute;
-     left: 90px;
-     top: 130px;
+
  	}
  	
  	.imageflottante
